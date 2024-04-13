@@ -1,10 +1,10 @@
 //import EmblaCarousel from 'embla-carousel'
-import { addPrevNextBtnsClickHandlers } from './EmblaCarouselArrowButtons'
-import { addDotBtnsAndClickHandlers } from './EmblaCarouselDotButton'
+import { addPrevNextBtnsClickHandlers } from './EmblaCarouselArrowButtons.js'
+import { addDotBtnsAndClickHandlers } from './EmblaCarouselDotButton.js'
 //import Autoplay from 'embla-carousel-autoplay'
-import './css/base.css'
-import './css/sandbox.css'
-import './css/embla.css'
+import '/css/base.css'
+import '/css/sandbox.css'
+import '/css/embla.css'
 
 const OPTIONS = { loop: true }
 
